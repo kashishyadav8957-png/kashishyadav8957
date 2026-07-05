@@ -1,29 +1,52 @@
-# kashishyadav8957
-👋 Hi, I'm Kashish!
+# Hi there, I'm Kashish 👋
 
-I'm an aspiring Software Developer and Computer Science student with a passion for building impactful web applications and solving real-world problems through technology.
+🎓 B.Tech Computer Science & Engineering Student
 
-I enjoy learning modern web development, exploring new technologies, and working on projects that strengthen my problem-solving and development skills. My interests include Full-Stack Development, Data Structures & Algorithms, Artificial Intelligence, and Cloud Technologies.
+💻 Passionate about Programming, Data Structures & Algorithms, Machine Learning, and Software Development.
 
-I'm continuously improving my technical skills by creating projects, contributing to GitHub, and staying up to date with industry trends. My goal is to secure a software engineering role at a leading product-based company where I can learn, innovate, and contribute to meaningful products.
+🌱 Currently Learning:
+- Data Structures & Algorithms (DSA)
+- Machine Learning
+- Python
+- SQL
+- Git & GitHub
 
-💻 Skills
-Frontend: HTML, CSS, JavaScript
-Programming Languages: Java, Python, JavaScript
-Database: MySQL
-Tools: Git, GitHub, VS Code
+## 🚀 Skills
 
-🌱 Currently Learning
-Advanced Data Structures & Algorithms
-Full-Stack Web Development
-System Design
-Cloud Computing
-DevOps Fundamentals
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-📫 Connect With Me
-GitHub: https://github.com/kashishyadav8957
-LinkedIn: https://linkedin.com/in/kashish123
-Email: Kashishyadav8957@gmail.com
-Leetcode: kashish_yadav_26
+## 📚 Current Focus
 
-"Every project I build is another step toward becoming a better developer." 🚀
+- Solving DSA problems on LeetCode
+- Building Machine Learning projects
+- Strengthening problem-solving skills
+- Exploring Open Source
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)
+
+## 🎯 2026 Goals
+
+- Solve 250+ DSA problems
+- Contribute to Open Source
+- Complete industry-recognized internships
+- Build impactful AI/ML projects
+
+## 📫 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/kashish123
+- Email: kashishyadav8957@gmail.com
+- Leetcode: https://leetcode.com/u/kashish_yadav_26/
+
+⭐ Always learning, building, and growing.
